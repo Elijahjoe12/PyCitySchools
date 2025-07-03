@@ -6,6 +6,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Your final report should include each of the following:
 District Summary
 •	Create a high level snapshot (in table form) of the district's key metrics, including:
+
 •	Calculate the total number of schools
 •	Calculate the total number of students
 •	Calculate the total budget
