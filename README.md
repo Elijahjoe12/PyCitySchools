@@ -5,6 +5,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Your final report should include each of the following:
 
+
 District Summary
 
 •	Create a high level snapshot (in table form) of the district's key metrics, including:
@@ -28,6 +29,7 @@ District Summary
 •	Create a dataframe to hold the above results
 
 •	Optional: give the displayed data cleaner formatting
+
 
 School Summary
 
@@ -53,6 +55,7 @@ o	% Passing Reading (The percentage of students that passed reading.)
 
 o	% Overall Passing (The percentage of students that passed math and reading.)
 
+
 Top Performing Schools (By % Overall Passing)
 
 •	Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
@@ -77,15 +80,19 @@ o	% Passing Reading (The percentage of students that passed reading.)
 
 o	% Overall Passing (The percentage of students that passed math and reading.)
 
+
 Bottom Performing Schools (By % Overall Passing)
 
 •	Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
+
 Math Scores by Grade**
 •	Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+
 Reading Scores by Grade
 •	Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 
 Scores by School Spending
 
@@ -101,9 +108,11 @@ o	% Passing Reading (The percentage of students that passed reading.)
 
 o	% Overall Passing (The percentage of students that passed math and reading.)
 
+
 Scores by School Size
 
 •	Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+
 
 Scores by School Type
 
